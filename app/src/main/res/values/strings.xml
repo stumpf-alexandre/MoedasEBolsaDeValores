@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moedas Agora</string>
+    <string name="text_location">Localidade:</string>
+    <string name="text_nome">Nome da Bolsa:</string>
+    <string name="text_variation">Variação:</string>
+    <string name="btn">Cotação da Bolsa</string>
+</resources>
